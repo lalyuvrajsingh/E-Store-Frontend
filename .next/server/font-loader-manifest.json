@@ -1,0 +1,6 @@
+{
+  "pages": {
+    "/product/[slug]": []
+  },
+  "app": {}
+}
